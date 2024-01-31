@@ -17,7 +17,7 @@ public class DockerAppDemoApplication {
 
 	@GetMapping("/show")
 	public String publish(){
-		return "my first published application......!!!";
+		return "my first published application..........";
 	}
 
 }
